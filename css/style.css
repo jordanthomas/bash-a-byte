@@ -1,0 +1,5 @@
+body { background: #bbb; font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; }
+canvas { border: 1px solid #aaa; }
+h1 { color: #444; font-size: 45px; font-weight: bold; letter-spacing: -2px; margin: 0 0 .25em 0; text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6); text-transform: uppercase; }
+p { color: #444; font-size: 13px; margin: 0 0 1.5em 0; }
+div.wrap { margin: 0 auto; width: 400px; }
